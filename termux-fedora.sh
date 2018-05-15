@@ -24,7 +24,7 @@ case "$1" in
 	    exit 0
 	    ;;
 	*)
-	    echo $"Usage: $0 {f26_arm|f26_arm64|f27_arm|f27_arm64|uninstall}"
+	    echo $"Usage: $0 {f26_arm|f26_arm64|f27_arm|f27_arm64|f27_x86|uninstall}"
 	    exit 2
 	    ;;
 esac
